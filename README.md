@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harsh Panara
-- 👀 I’m interested in Web-Development, UI/UX , Web-Design
+- 👀 I’m interested in Web-Development, UI/UX , Web-Design ,Asp.Net
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: ...
 
